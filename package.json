@@ -29,6 +29,7 @@
     "middleware": "^1.0.0",
     "mysql2": "^2.3.0",
     "nodemon": "^2.0.12",
+    "run": "^1.4.0",
     "sequelize": "^6.6.5",
     "session": "^0.1.0"
   }
