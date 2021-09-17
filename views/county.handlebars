@@ -2,39 +2,41 @@
     <div class="container">
         <div class="card bg-dark text-white">
             <img class="card-img img-fluid" src="{{county.picture}}" alt="Card image">
-                <div class="card-img-overlay">
-                    <h5 class="card-title">{{county.name}}</h5>
-                </div>
+            <div class="card-img-overlay">
+                <h5 class="card-title">{{county.name}}</h5>
+            </div>
         </div>
     </div>
     <div class="container">
-        <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-12">
-        <h2 class="text-center header-text">PARK</h2>
-        {{#each parks as |park|}}
-    <div class="park-cards h-25 d-flex flex-column align-items-center">
-            <img class="card-img-top img-fluid m-1 w-75" src="{{park.picture}}" alt="Card image cap" style="height: 50%;">
-            <div class="card-body text-center d-flex flex-column justify-content-between">
-                <h5 class="card-title">{{park.name}}</h5>
-                <p class="card-text">{{park.summary}}</p>
-                <a href="{{park.link}}" target="_blank">Visit their website</a>
+        
+        <div class="col-lg-6 col-md-6 col-sm-12">
+            <h2 class="text-center header-text">PARK</h2>
+            {{#each parks as |park|}}
+            <div class="park-cards h-25 d-flex flex-column align-items-center">
+                <img class="card-img-top img-fluid m-1 w-75" src="{{park.picture}}" alt="Card image cap"
+                    style="height: 50%;">
+                <div class="card-body text-center d-flex flex-column justify-content-between">
+                    <h5 class="card-title">{{park.name}}</h5>
+                    <p class="card-text">{{park.summary}}</p>
+                    <a href="{{park.link}}" target="_blank">Visit their website</a>
+                </div>
             </div>
-    </div>
-        {{/each}}
-    </div>
-    <div class="col-lg-6 col-md-6 col-sm-12">
-        <h2 class="text-center header-text">MUSEUM</h2>
-        {{#each museums as |museum|}}
-        <div class="museum-cards h-25 d-flex flex-column align-items-center">
-            <img class="card-img-top img-fluid m-1 w-75" src="{{museum.picture}}" alt="Card image cap" style="height: 50%;">
-            <div class="card-body text-center d-flex flex-column justify-content-between">
-                <h5 class="card-title">{{museum.name}}</h5>
-                <p class="card-text">{{museum.summary}}</p>
-                <a href="{{museum.link}}" target="_blank">Visit their website</a>
+            {{/each}}
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-12">
+            <h2 class="text-center header-text">MUSEUM</h2>
+            {{#each museums as |museum|}}
+            <div class="museum-cards h-25 d-flex flex-column align-items-center">
+                <img class="card-img-top img-fluid m-1 w-75" src="{{museum.picture}}" alt="Card image cap"
+                    style="height: 50%;">
+                <div class="card-body text-center d-flex flex-column justify-content-between">
+                    <h5 class="card-title">{{museum.name}}</h5>
+                    <p class="card-text">{{museum.summary}}</p>
+                    <a href="{{museum.link}}" target="_blank">Visit their website</a>
+                </div>
             </div>
+            {{/each}}
+        </div>
     </div>
-        {{/each}}
-        </div>
-        </div>
 </div>
 </div>

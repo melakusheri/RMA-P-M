@@ -1,13 +1,12 @@
 #ourlogo {
-  height: 70px;
+    height: 70px;
 }
 
 .home-card-img {
-  width: auto;
-  height: 100%;
-  object-fit: cover;
-  align-self: center;
-  
+    width: auto;
+    height: 100%;
+    object-fit: cover;
+    align-self: center;
 }
 
 .jumbotron {
@@ -17,14 +16,13 @@
 }
 
 body {
-  
-  background-color: #4b9239;
+    background-color: #4b9239;
 }
 
 .park-cards {
-  background-color: #b5dbe3;
-  display: flex;
-  flex-direction: column;
+    background-color: #b5dbe3;
+    display: flex;
+    flex-direction: column;
 }
 
 .museum-cards {
@@ -34,39 +32,41 @@ body {
 }
 
 h1 {
-  font-family: 'Fredoka One', cursive;
+    font-family: 'Fredoka One', cursive;
 }
 
 .uniform-cards {
-  height: 10vw;
+    height: 10vw;
 }
 
 .uniform-cards img {
-  height: 50%;
-}
-.header-text {
-  color: #e7514c;
-}
-.navbar{ 
-  color: antiquewhite !important;
-  height: 120px;
-  font-size: 35px;
-  font-style:normal;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  cursor: pointer;
- 
-}
-.navbar-brand{
-  font-size:35px ;
-  color: rgb(8, 8, 8) !important; 
+    height: 50%;
 }
 
+.header-text {
+    color: #e7514c;
+}
+
+.navbar {
+    color: antiquewhite !important;
+    height: 120px;
+    font-size: 35px;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+.navbar-brand {
+    font-size: 35px;
+    color: rgb(8, 8, 8) !important;
+}
 
 .card-body {
-  justify-content: center;
-  align-content:center ;
-  background-color: #e7514c;
+    justify-content: center;
+    align-content: center;
+    background-color: #f7f7f7f3;
 }
- .container {
-   background-color: #4b9239;
- }
+
+.container {
+    background-color: #4b9239;
+}

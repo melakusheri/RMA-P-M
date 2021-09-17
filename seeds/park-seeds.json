@@ -1,5 +1,4 @@
-[
-    {
+[{
         "name": "Joe H. Paulette Memorial Park",
         "link": "https://amelia-parks-and-recreation.virginiainteractive.org/Home/Detail/179",
         "picture": "https://live.staticflickr.com/2824/9766078423_14cf5770b1_b.jpg",
@@ -26,24 +25,24 @@
     },
     {
         "name": "Ettrick Park",
-        "link": "",
+        "link": "https://www.chesterfield.gov/3816/Ettrick-Park",
         "picture": "https://ak.jogurucdn.com/media/image/p25/place-2018-04-4-7-e7eb0e189edf3ce29e1aa3f013863f54.jpg",
-        "summary": "",
+        "summary": "Ettrick Park consists of 28 acres in southeastern Chesterfield. The park serves the Ettrick community by providing a variety of facilities.",
         "points": 4,
         "county_id": 4
     },
     {
-        "name": "",
-        "link": "",
-        "picture": "",
-        "summary": "",
+        "name": "Hidden Rock Park",
+        "link": "https://www.goochlandva.us/236/Parks-Recreation",
+        "picture": "https://www.goochlandva.us/ImageRepository/Path?filePath=%2fdocuments%5cIntranet%5c90%5c184%2fLMP_201505191046189210.JPG",
+        "summary": "Great trails for the intermediate / advanced riders",
         "points": 5,
         "county_id": 5
     },
 
     {
-        "name": "",
-        "link": "",
+        "name": "Courthouse Park",
+        "link": "https://www.hanovercounty.gov/242/Courthouse-Park",
         "picture": "",
         "summary": "",
         "points": 6,
@@ -84,7 +83,7 @@
         "points": 10,
         "county_id": 10
     },
-    
+
     {
         "name": "",
         "link": "",
@@ -93,7 +92,7 @@
         "points": 11,
         "county_id": 11
     },
-    
+
     {
         "name": "",
         "link": "",
@@ -118,4 +117,4 @@
         "points": 14,
         "county_id": 14
     }
-] 
+]
