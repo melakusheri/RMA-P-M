@@ -1,4 +1,4 @@
-const User = require('./user');
+const User = require('./User');
 const County = require('./county');
 const Museum = require('./museum');
 const Park = require('./park');

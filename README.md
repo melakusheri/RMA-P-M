@@ -35,9 +35,10 @@
   ## Github
   Melaku :https://github.com/melakusheri Laeticia :https://github.com/lsangano 
   ## E-mail
-  dereje@gmail.com, joe@gmail.com, kevin@gmail.com, and cameron@gmail.com
+  mailangels@gmail.com
 
   ## Acceptance Criteria List
+* 
 * Use Node.js and Express.js to create a RESTful API.
 
 * Use Handlebars.js as the template engine.
