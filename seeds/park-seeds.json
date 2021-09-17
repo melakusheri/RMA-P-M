@@ -1,0 +1,121 @@
+[
+    {
+        "name": "Joe H. Paulette Memorial Park",
+        "link": "https://amelia-parks-and-recreation.virginiainteractive.org/Home/Detail/179",
+        "picture": "https://live.staticflickr.com/2824/9766078423_14cf5770b1_b.jpg",
+        "summary": "its a best park ",
+        "points": 1,
+        "county_id": 1
+    },
+
+    {
+        "name": "Caroline County Park in Ladysmith, VA",
+        "link": "https://co.caroline.va.us/Facilities/Facility/Details/Caroline-Recreation-Park-1",
+        "picture": "https://raleighparks.org/wp-content/gallery/caroline-county-park/IMG_6788.jpg",
+        "summary": " Caroline County Park is located across the street from Caroline Middle School around 13690 Devils 3 Jump Rd.",
+        "points": 2,
+        "county_id": 2
+    },
+    {
+        "name": "Harrison Park",
+        "link": "https://charlescity.org/live/parks-and-recreation/",
+        "picture": "https://media-cdn.tripadvisor.com/media/photo-s/08/91/c0/26/lawrence-lewis-jr-park.jpg",
+        "summary": "This small park is located next to Charles City County Fire Station Number 3. The park includes a shelter with picnic tables, grills, and playground.",
+        "points": 3,
+        "county_id": 3
+    },
+    {
+        "name": "Ettrick Park",
+        "link": "",
+        "picture": "https://ak.jogurucdn.com/media/image/p25/place-2018-04-4-7-e7eb0e189edf3ce29e1aa3f013863f54.jpg",
+        "summary": "",
+        "points": 4,
+        "county_id": 4
+    },
+    {
+        "name": "",
+        "link": "",
+        "picture": "",
+        "summary": "",
+        "points": 5,
+        "county_id": 5
+    },
+
+    {
+        "name": "",
+        "link": "",
+        "picture": "",
+        "summary": "",
+        "points": 6,
+        "county_id": 6
+    },
+
+    {
+        "name": "",
+        "link": "",
+        "picture": "",
+        "summary": "",
+        "points": 7,
+        "park_id": 7
+    },
+    {
+        "name": "",
+        "link": "",
+        "picture": "",
+        "summary": "",
+        "points": 8,
+        "county_id": 8
+    },
+
+    {
+        "name": "",
+        "link": "",
+        "picture": "",
+        "summary": "",
+        "points": 9,
+        "county_id": 9
+    },
+
+    {
+        "name": "",
+        "link": "",
+        "picture": "",
+        "summary": "",
+        "points": 10,
+        "county_id": 10
+    },
+    
+    {
+        "name": "",
+        "link": "",
+        "picture": "",
+        "summary": "",
+        "points": 11,
+        "county_id": 11
+    },
+    
+    {
+        "name": "",
+        "link": "",
+        "picture": "",
+        "summary": "",
+        "points": 13,
+        "county_id": 12
+    },
+    {
+        "name": "",
+        "link": "",
+        "picture": "",
+        "summary": "",
+        "points": 13,
+        "county_id": 13
+    },
+    {
+        "name": "",
+        "link": "",
+        "picture": "",
+        "summary": "",
+        "points": 14,
+        "county_id": 14
+    }
+] 

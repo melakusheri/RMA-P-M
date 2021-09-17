@@ -1,0 +1,118 @@
+[
+    {
+        "name": "Hillsman House",
+        "link": "https://www.virginia.org/listing/hillsman-house/6026/",
+        "picture": "https://sah-archipedia.org/sites/default/files/pictures/full/VA-02-AA17-001.jpg",
+        "summary": "Hillsman house... used as Union hospital and surgery - Picture of Sailor's Creek Battlefield Historical State Park, Rice",
+        "points": 1,
+        "county_id": 1
+    },
+   
+    {
+        "name": "Port Royal Museum of History musium",
+        "link": "http://www.historicportroyal.net/port-royal-museum-of-american-history-6/",
+        "picture": "http://www.historicportroyal.net/wp-content/uploads/2014/10/HPR-Museum-of-American-History-Pic-9-2014-600x4502.jpg",
+        "summary": "Great little museum with lots of place setting from the White House",
+        "points": 2,
+        "county_id": 2
+    },
+    {
+        "name": "Charles City Court-House, Virginia",
+        "link": "https://www.getty.edu/art/collection/objects/235065/timothy-h-o'sullivan-alexander-gardner-charles-city-court-house-virginia-american-june-1864/",
+        "picture": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/12500/12589v.jpg",
+        "summary": "Built in 1730, this historic landmark is small but worth a visit.",
+        "points": 3,
+        "county_id": 3
+    },
+    {
+        "name": "CHESTERFIELD COUNTY MUSEUM & 1892 JAIL",
+        "link": "https://www.virginia.org/listing/chesterfield-county-museum/4698/",
+        "picture": "https://live.staticflickr.com/5134/5451582439_731ddc197a.jpg",
+        "summary": "a general store and exhibits on Native American culture",
+        "points": 4,
+        "county_id": 4
+    },
+    {
+        "name": "Historic Dinwiddie County Courthouse",
+        "link": "https://bestpartva.org/do/attractions-museums/historic-dinwiddie-county-courthouse/",
+        "picture": "https://www.dhr.virginia.gov/VLR_to_transfer/Photos/026-0004_Dinwiddie_County_Courthouse_1973_VLR_4th_pub_image.jpg",
+        "summary": "Historic Dinwiddie Courthouse. Built in 1851, the Dinwiddie County Courthouse was the headquarters of Union General Philip H. Sheridan during the Battle of Dinwiddie Courthouse.",
+        "points": 5,
+        "county_id": 5
+    },
+    {
+        "name": "THE JACKSON BLACKSMITH SHOP",
+        "link": "https://author.virginia.org/listings/HistoricSites/TheJacksonBlacksmithShop/",
+        "picture": "https://www.dhr.virginia.gov/VLR_to_transfer/Photos/037-0163_Jackson_Blacksmith_VLR_online.jpg",
+        "summary": "Built in 1932, farmers and sawmillers from many areas of the state came to this shop to have their horses shod and farm tools repaired. The shop was restored in 1995 and is now listed on the Virginia Register of Historic Places.",
+        "points": 6,
+        "county_id": 6
+    },
+    {
+        "name": "Hanover County Courthouse ",
+        "link": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/2-hanover-county-courthouse-hanover-virginia-mark-summerfield.jpg",
+        "picture": "https://capitolshots.com/wp-content/uploads/galleries/post-2865/full/Hanover-County-Courthouse-01020W.jpg",
+        "summary": "Hanover County Courthouse (built 1735), Hanover, VA. Patrick Henry first practiced law here. It is listed on the National Register of Historic Places.",
+        "points": 7,
+        "county_id": 7
+    },
+    {
+        "name": "Meadow Farm Museum at Crump Park - Henrico County, Virginia",
+        "link": "https://henrico.us/rec/places/meadow-farm/",
+        "picture": "https://i.pinimg.com/originals/a9/ec/bd/a9ecbd5db6e0fe4ec75269ef0f7c68e4.jpg",
+        "summary": "Meadow Farm Museum, an 1860 living history farm site and museum, presents programs and exhibits on the culture of the rural South. ",
+        "points": 8,
+        "county_id": 8
+    },
+    {
+        "name": "King William County Historical Museum",
+        "link": "https://kingwilliamhistory.org/museum/",
+        "picture": "https://i.ytimg.com/vi/Wa5YIiZdoSk/maxresdefault.jpg",
+        "summary": "The museum opened to the public in April, 2007. It is designed to be representative of the geography and multi-cultural background of the county,",
+        "points": 9,
+        "county_id": 9
+    },
+    {
+        "name": "A New Kent Museum",
+        "link": "http://1.bp.blogspot.com/-9JuGr2QDAl8/UyncMpp9IEI/AAAAAAAABUs/JxKgMyAkAJ8/s1600/Womens+club.jpg",
+        "picture": "http://1.bp.blogspot.com/-9JuGr2QDAl8/UyncMpp9IEI/AAAAAAAABUs/JxKgMyAkAJ8/s1600/Womens+club.jpg",
+        "summary": "the Martha Dandridge Woman's Club building, which was originally a two room school house built in 1870,",
+        "points": 10,
+        "county_id": 10
+    },
+
+{
+        "name": "Powhatan Museum of Indigenous Arts and Culture",
+        "link": "http://www.powhatanmuseum.com/Powhatan.html",
+        "picture": "http://www.powhatanmuseum.com/sitebuilder/images/Powhatan_3D_pix_-390x579.jpg",
+        "summary": "The Pamunkey was the largest of the tribes that made up the Powhatan chiefdom in 1607 whenthe English arrived in Virginia.",
+        "points": 11,
+        "county_id": 11
+    },
+
+    {
+        "name": "Prince Georges African American Museum & Cultural Center",
+        "link": "https://pgaamcc.org/",
+        "picture": "https://pgaamcc.org/wp-content/uploads/2020/07/COVID-Website-Slider.jpg",
+        "summary": "African American culture",
+        "points": 12,
+        "county_id": 12
+    },
+    {
+        "name": "SUSSEX COUNTY, VA",
+        "link": "https://www.sussexcountyva.gov/page/sussex-history/",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sussex_County_Courthouse_(Built_1828)%2C_Sussex%2C_Virginia.jpg/435px-Sussex_County_Courthouse_(Built_1828)%2C_Sussex%2C_Virginia.jpg",
+        "summary": "Sussex County was formed in 1754 and named after Sussex County, England. Settlement of Sussex County started prior to 1700 when people began to move south of the Blackwater River.",
+        "points": 13,
+        "county_id": 13
+    },{
+        "name": "Virginia Museum of Fine Arts",
+        "link": "https://www.virginia.gov/agencies/virginia-museum-of-fine-arts/",
+        "picture": "https://architecturerichmond.com/wp-content/uploads/2012/03/img_27141.jpg",
+        "summary": "The Virginia Museum of Fine Arts (VMFA) is a state-supported, privately endowed educational institution created for the benefit of the citizens of the Commonwealth of Virginia.",
+        "points": 14,
+        "county_id": 14
+    }
+
+
+]
