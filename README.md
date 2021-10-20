@@ -17,6 +17,7 @@
   ## Installation
   Installation is not needed but it uses `express-handlebars`, `MySQL2`, `Sequelize`, `dotenv package`, `bcrypt package`,`express-session`, `connect-session-sequelize` and `NPM install` for bassic functioning. 
   
+ 
   ## Usage
   If you're interested in inspiration for visit musium or park, log in or set up an account then start browsing our list of Parks and Museums.
 
